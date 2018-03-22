@@ -15,7 +15,8 @@ import ScrollNavigation from 'scroll-navigation-menu';
 const routes = [
   '/codigo-de-conduta',
   '/quero-patrocinar',
-  '/programacao'
+  '/programacao',
+  '/evento'
 ];
 const anchors = new ScrollNavigation({
   offset: -100
